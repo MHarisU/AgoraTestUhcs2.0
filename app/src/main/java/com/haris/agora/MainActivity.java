@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EchoWebSocketClient webSocketClient;
 
+    int check;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
